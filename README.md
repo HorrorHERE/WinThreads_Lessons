@@ -11,7 +11,7 @@
   #include <vector> - заголовочный файл для работы с контейнером std::vector.
 
 ## 2. Макрос UNICODE:
-```
+```C++
   #ifdef UNICODE
   #define tcout std::wcout
   #elif
