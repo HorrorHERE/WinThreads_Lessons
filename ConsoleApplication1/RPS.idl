@@ -1,0 +1,37 @@
+[
+    uuid(D43DC178-7CA9-4AEA-B6D6-D64D2145102E)
+]
+interface InterfaceRPC
+{
+    const unsigned short INT_ARRAY_LEN = 100;
+    const unsigned int bufSize = 65536;
+
+    int Login(
+        [in, string] const char* username,
+        [in, string] const char* password
+    );
+
+    void Logout(void);
+
+
+    int DownloadFile(
+        [in, string] const char* path,
+        [out] char data[bufSize],
+        [out] int* size,
+        [in] int offset
+    );
+
+    int DeleteFileFromServer(
+        [in, string] const char* filePath
+    );
+
+
+    int ÑopyFileFromServer(
+        [in, string] const char* path,
+        [in, out, size_is(size)] char* data,
+        [in] int size,
+        [in] int offset,
+        [in] int mode
+    );
+
+}

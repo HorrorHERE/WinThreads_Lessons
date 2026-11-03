@@ -1,0 +1,7 @@
+﻿  Server.c
+C:\Users\Михаил\source\repos\RPS_not_to_me\ConsoleApplication1\ConsoleApplication1\Server.c(8,6): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\Михаил\source\repos\RPS_not_to_me\ConsoleApplication1\ConsoleApplication1\Server.c(14,6): warning C4026: функция объявлена со списком формальных параметров
+C:\Users\Михаил\source\repos\RPS_not_to_me\ConsoleApplication1\ConsoleApplication1\Server.c(18,6): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\Михаил\source\repos\RPS_not_to_me\ConsoleApplication1\ConsoleApplication1\Server.c(22,48): warning C4028: формальный параметр 2 отличается от объявления
+C:\Users\Михаил\source\repos\RPS_not_to_me\ConsoleApplication1\ConsoleApplication1\Server.c(22,6): warning C4029: объявленный список формальных параметров отличается от объявления
+C:\Users\Михаил\source\repos\RPS_not_to_me\ConsoleApplication1\ConsoleApplication1\Server.c(26,6): warning C4029: объявленный список формальных параметров отличается от объявления

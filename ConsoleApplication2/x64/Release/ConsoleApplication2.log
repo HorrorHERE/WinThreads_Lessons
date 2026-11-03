@@ -1,0 +1,8 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Михаил\source\repos\RPS_not_to_me\ConsoleApplication1\ConsoleApplication2\ConsoleApplication2.cpp(98,95): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 23 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication2.vcxproj -> C:\Users\Михаил\source\repos\RPS_not_to_me\ConsoleApplication1\x64\Release\ConsoleApplication2.exe
